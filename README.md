@@ -9,7 +9,9 @@
 Есть возможность просмотра основных характеристик самолёта, а также возможность изменения метрики из имперской системы в метрическую систему измерения. 
 
 <img width="630" height="553" alt="image" src="https://github.com/user-attachments/assets/1c2ce012-1914-4d6f-8bc2-e142d2089eb2" />
+
 имперская система
 
 <img width="628" height="549" alt="image" src="https://github.com/user-attachments/assets/076ee233-3b6b-4560-a299-d20c906584a4" />
+
 метрическая система
